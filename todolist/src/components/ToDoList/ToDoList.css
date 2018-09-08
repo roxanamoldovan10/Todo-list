@@ -1,0 +1,46 @@
+.test {
+  list-style: none; }
+
+.user-input {
+  background-color: #8080804d;
+  border: none;
+  outline: none;
+  margin: 4% 0 2% 12%;
+  width: 63.5%;
+  border-radius: 5px; }
+  .user-input:hover {
+    background-color: #80808033; }
+
+.line-through {
+  text-decoration: line-through; }
+
+.p-10 {
+  padding: 10px; }
+
+.p-20 {
+  padding: 20px; }
+
+.m-10 {
+  margin: 10px; }
+
+.box {
+  border-radius: 5px;
+  margin: 1% 0 0 10%;
+  width: 65%; }
+
+.pull-right {
+  float: right; }
+
+.custom-button {
+  outline: none;
+  border: none;
+  background: none;
+  color: #8080804d; }
+  .custom-button:hover {
+    color: #00a55e87; }
+
+.custom-label {
+  display: inline-block;
+  width: 95%; }
+
+/*# sourceMappingURL=ToDoList.css.map */
